@@ -1,15 +1,16 @@
 <!doctype html>
 <html lang="en">
-  <head>
+
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw==" crossorigin="anonymous" />
-    
+
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kmlpandey77/bootnavbar/css/bootnavbar.css">
 
     <title>Glow Overseas Education</title>
@@ -23,10 +24,11 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    
-  </head>
-  <body>
-  <?php include 'templates/header.php' ?>
+
+</head>
+
+<body>
+    <?php include 'templates/header.php' ?>
 
     <div id="abt">
         <div class="container">
@@ -36,15 +38,15 @@
                         <h2>MBBS in Ukraine</h2>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
-                              <li class="breadcrumb-item"><a href="/">Home</a></li>
-                              <li class="breadcrumb-item active" aria-current="page">MBBS in Ukraine</li>
+                                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">MBBS in Ukraine</li>
                             </ol>
-                          </nav>
+                        </nav>
                     </div>
                 </div>
             </div>
         </div>
-    </div>  
+    </div>
 
 
     <div id="country" class="pt-5 pb-5">
@@ -59,15 +61,78 @@
                                         <h4 class="text-center pt-2 pb-2">MBBS in Ukraine</h4>
                                         <img src="./images/mbbs-in-ukraine-flag.jpg.png" alt="" class="img-fluid rounded-circle ml-3">
                                         <p class="pt-2 pb-2 text-justify">
-                                            Ukraine is one of the safest countries in the world. Ukraine is the topmost country to study MBBS in Abroad for Indian students compared to other countries like Ukraine, Ukraine, USA, Russia, Philippines, Kazakhstan. Many of Indian students already studying in the Top Medical Universities in Ukraine. Ukraine Medical Universities are approved by MCI / WHO.
+                                            MBBS in Ukraine can easily stand as one of the best options for you to become a doctor, if your Neet score is low, glow overseas education assures you that the Neet score cannot kill your dream of a career in medicine. You always have an option of Ukraine MBBS which is safe and economical.
                                         </p>
                                         <p class="pt-2 pb-2 text-justify">
-                                            Nowadays Indian students preferring to study MBBS in Abroad countries like MBBS in USA, MBBS in Russia, MBBS in Kazakhstan, MBBS in Georgia and MBBS in Kyrgyzstan because the cost of MBBS course in Indian Private Medical Colleges are High.
+                                            It is not easy decision for the students and parents to study MBBS in abroad at lowest cost. Medical universities in Ukraine provide the best medical education according to international standards and follows the norms of major medical boards of various countries including India. 16 universities are listed under MCI and 36 universities listed under WDOMS. Student can easily get admission and pursue their MBBS in top universities located in Ukraine. An approximate budget of 27- 30 lacs INR is required to study medical and to cover the expenses of whole 6 years.
                                         </p>
-                                        <p class="pt-2 pb-2 text-justify">
-                                            In Ukraine, we have many Medical Universities are there to achieve MBBS in Ukraine. We are providing all the Medical Universities are approved by MCI / WHO and also Govt. Medical Universities. Feel free to contact for more details like Fees Structure, Hostel, Food, Visa. We are available through phone contact 24/7.
+
+                                        <p class="pt-2 pb-2 text-justify"><strong>
+                                                In order to select best and top MBBS in Ukraine collages you can apply the following parameters.</strong>
                                         </p>
+                                        <ul>
+                                            <li>The MBBS in Ukraine universities should be situated on west part of the country and not on the war zone on eastern part</li>
+                                            <li>The Ukraine MBBS universities should be government and not private one</li>
+                                            <li>The medical universities in Ukraine should have at least 75 years of teaching experience</li>
+                                            <li>The students must check the FMGE passing ratio provided on NBE website</li>
+                                        </ul>
+                                        <p class="pt-2 pb-2 text-justify"><strong>Why study MBBS in Ukraine?</strong></p>
+                                        <ul>
+                                            <li>Ukraine in internationally known for its quality and cost of MBBS in Ukraine </li>
+                                            <li> MCI WHO UNESCO perceive most medical universities in Ukraine </li>
+                                            <li>For Indian students Ukraine MBBS expenses for convenience and very reasonable in INR</li>
+                                            <li>Alongside an excellent quality framework and schooling students with a physician certification of any expert degree for Ukraine medical universities can apply world wide
+                                            </li>
+                                        </ul>
+                                        <p class="pt-2 pb-2 text-justify"><strong>Quick information about MBBS in Ukraine </strong></p>
+                                        <ul>
+                                            <li><strong> Recognition </strong>-NMC AND WHO APPROVED </li>
+                                            <li><strong> Eligibility</strong> – 50% IN PHYSICS CHEMISTRY AND BIOLOGY AGGREGATE</li>
+                                            <li><strong>Course duration</strong> -6 YEARS </li>
+                                            <li><strong>NEET </strong>-YES COMPULSORY </li>
+
+
+                                            <li><strong> IELTS/TOFEL</strong> – NOT REQUIRED</li>
+                                            <li><strong> MEDIUM OF TEACHING </strong>- ENGLISH </li>
+                                        </ul>
+                                        <p class="pt-2 pb-2 text-justify">Most importantly an MBBS in from the medical universities in Ukraine is eligible of medical PG in USA, UK, Europe, Canada, Australia & so on getting admission at PG medical level is very much easier after studying in Ukraine</p>
+                                        <p class="pt-2 pb-2 text-justify"><strong>Is Ukraine MBBS valid in India?</strong>
+                                        <p class="pt-2 pb-2 text-justify">The answer is big yes after MBBS in Ukraine, you may appear in NEXT to get admission in PG or practicing in India</p>
+                                        <ul>
+                                            <li>WHO and MCI affirm Ukraine Medical Universities? Students moving on from India can work across any part of the world.</li>
+                                            <li>No requirement for IELTS or TOEFL.</li>
+                                            <li>Government support for Research and monetary issues in training.</li>
+                                            <li>You do not have to pay donations to get admission.</li>
+                                            <li>The living Cost is exceptionally reasonable.</li>
+                                            <li>English is offered as an educating language.</li>
+                                            <li>Ease of living and educational expenses.</li>
+                                        </ul>
+                                        <h3 class="pt-2 pb-2">ADVANTAGES</h3>
+                                        <ul>
+                                            <li>• The authority upholds of Ukraine for keeping up quality and world-wide norm </li>
+                                            <li>MBBS confirmation in Ukraine for medical students is an immediate decision </li>
+                                            <li>WHO & MCI affirm Ukraine medical universities students moving on form Indian can work across any part of the world </li>
+
+                                            <li> No requirement for IELTS & TOEFL</li>
+                                            <li> Government support for research and monetary issue in training </li>
+                                            <li> You do not have to pay donation to get admission </li>
+                                            <li> The living cost is exceptionally reasonable</li>
+                                            <li> English is offered as an education language</li>
+                                            <li> Ease of living and educational expenses </li>
+                                            <li> Ukraine offers a multicultural and multi ethic climate for students </li>
+                                            <li>Medical school expenses are genuinely reasonable practically for Indian students it is moderately low when contrasted with nations like the USA&UK</li>
+                                            <li> Because of the variety in examination culture English is the primary language used for teaching </li>
+                                            <li> Students’ visas can be availed easily for Ukraine </li>
+                                            <li> Productive and easy living including month to month living expenses and moderate expenses</li>
+                                            <li> Lesser crime percentage than other European and western nation make the place all right for worldwide students </li>
+
+                                        </ul>
+                                        <p class="pt-2 pb-2 text-justify"><strong> First Year</strong> Foreign Language, Latin Language, and Medical Terminology, History of Medicine, Fundamentals of Psychology, Fundamentals of Pedagogic, Medical Biology, Medical Chemistry, Biological, and Bio-organic Chemistry, Human Anatomy, Histology, Cytology, Embryology, Physical Training, Palynology, Medical and Biological Physics, Elective Courses.</p>
+                                        <p class="pt-2 pb-2 text-justify"><strong> Second Year</strong>Philosophy, Human Anatomy, Histology, Cytology, Embryology, Physiology, Biological and Bio-organic Chemistry, Microbiology, Virology and Immunology, General Surgery (with Operative Surgery and Topographical Anatomy), Medical Computer Science, Patient’s care (practical training), Emergency Medicine, Personal and Social Safety, Fundamentals of Occupational Health and Safety, Physical Training</p>
+                                        <p class="pt-2 pb-2 text-justify"><strong> Third Year</strong> Microbiology, Virology and Immunology, Path morphology, Path physiology, Pharmacology, Hygiene and ecology, Propaedeutic of internal medicine, Propaedeutics of paediatrics, General Surgery (with Operative Surgery and Topographical Anatomy), Radiology, Nurse Practice, Fundamentals of bioethics and biosafety, Physical Training / Foreign Language.</p>
+                                        <p class="pt-2 pb-2 text-justify"><strong> Fourth Year</strong> Internal Medicine, Tuberculosis, Paediatrics, Surgery, Obstetrics and Gynaecology, Social medicine, health care system organization, Biostatistics, Urology, Otolaryngology, Ophthalmology, Neurology, Medical Psychology</p>
                                         <div class="text-center">
+
                                             <a href="/" class="pt-2 pb-2 btn btn-warning m-2">Get Free Counselling</a>
                                         </div>
                                     </div>
@@ -101,14 +166,14 @@
                                             <div class="d-flex flex-inline">
                                                 <span class="high">
                                                     The highest average
-                                                        July temperature is
-                                                        +17… +19°C
+                                                    July temperature is
+                                                    +17… +19°C
                                                 </span>
                                                 <span class="low">
                                                     The lowest
-                                                        temperature of
-                                                        January and February
-                                                        is -7… -8°C
+                                                    temperature of
+                                                    January and February
+                                                    is -7… -8°C
                                                 </span>
                                             </div>
                                         </div>
@@ -133,10 +198,157 @@
                         <div class="top-medical-university pt-5 pb-5">
                             <div class="row">
                                 <div class="col-md-12">
-                                    <h3 class="text-center">Top Medical Universities in Ukraine</h3>
+                                    <h3 class="text-center">Top Universities to study in Ukraine</h3>
                                     <p class="text-justify">
-                                        Glow Overseas Education recommended Universities to Study MBBS in Kazakhstan. Bogomolets National Medical University, Ivano frankvisk National Medical University, Kharkiv National Medical University, Lviv National Medical University, Zaporizhzhia State Medical University. Free feel to contact for more details on Kazakhstan Top Medical University.
+                                        Some of the Top Universities which we recommend to study are:
                                     </p>
+                                    <ul>
+                                        <li><strong>Kharkiv National Medical University </strong>-1805</li>
+                                        <li><strong>Lviv National Medical University </strong>-1784</li>
+                                        <li><strong>Bogomolets National Medical University </strong>-1841</li>
+                                        <li><strong>Vinnitssa National Medical University</strong>- 1921</li>
+                                        <li><strong>Kyiv Medical University (Kiev Branch)</strong>- 1992</li>
+
+                                    </ul>
+                                    <table class="table-bordered">
+                                        <thead>
+                                            <tr class="bg-primary text-white text-center">
+
+                                                <th scope="col">Basis</th>
+                                                <th scope="col">MBBS in Ukraine</th>
+                                                <th scope="col">MBBS in India</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td class="text-center">Course Duration</td>
+                                                <td class="table-info">The course duration for MBBS in Ukraine is of 6years(5+1year Internship)</td>
+                                                <td>MBBS in India Course duration is 5.5 years(4.5 years academics + 1 year Internship)</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">Fees Structure</td>
+                                                <td class="table-info">The fees in ukraine are approximately INR 25 Lakh to INR 35 LakhFor Complete MBBS Degree</td>
+                                                <td>MBBS in India fee
+                                                    <ul>
+                                                        <li>Government College : INR 11,000 to INR 7.5 lakhs(Complete Course)</li>
+                                                        <li>Private College : INR 20 Lakhs to INR 80 lakhs(Complete Course)</li>
+                                                    </ul>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">Entrance Test</td>
+                                                <td class="table-info">No Specific screening, valid NEET Exam score required by MCI Mandated</td>
+                                                <td>Need good score in 12th class and need to qualify NEET with good percentage and cut-off</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td class="text-center">Degree</td>
+                                                <td class="table-info">In Ukraine, the MD equivalent degree for MBBS in India is awarded to medical graduates studying at Ukraine Universities</td>
+                                                <td>In India the MBBS degree is awaraded to medical graduates who have successfully completed the MBBS Course</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td class="text-center">Exposure</td>
+                                                <td class="table-info">Students get international exposure and you get more growth opportunities</td>
+                                                <td>Students have no international exposure and limited opportunities for growth</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <h3 class="pt-2 pb-2">Average temperature of Ukraine</h3>
+                                    <p class="pt-2 pb-2 text-justify">Ukraine has a temperate continental climate, except the southern coast of Crimea which has subtropical weather. Kiev has four distinct seasons: a chilly winter, a mildly warm summer and a cool autumn and spring. The climate is inspired through moderate heat, humid air coming from the Atlantic Ocean. The average annual temperatures of the country lie in between 5.5–7 °C (41.9–44.6 °F) in the north, to 11–13 °C (51.8–55.4 °F) in the south.</p>
+                                    <p class="pt-2 pb-2 text-justify">Glow overseas students who study medicine in Ukraine universities keep updating us of latest developments. The hope and enthusiasm they display is unparallel </p>
+                                    <p class="pt-2 pb-2 text-justify">An association with glow overseas education ensures the great experience of pursuing MBBS in Ukraine.</p>
+                                    <p class="pt-3 text-justify"><strong>FREE COUNSELLING SESSION<br />ONLINE COUNSELING SESSION</strong></p>
+                                    <p class="text-justify">Glow overseas education conducts online counselling by various experts who impart complete info MBBS in abroad MBBS in India how to choose universities country pros and cons of different choices, PG preparation etc this is followed by a Q & A session with doubt clearance where you can ask everything you want to know to the experts
+                                        To attend online counselling you may call 9513332386, or WhatsApp 9513332386 or email glowoverseasedu@gmail.com
+                                    </p>
+
+
+                                    <p class="pt-3 text-justify"><strong> TELE COUNSELLING </strong></p>
+                                    <p class="text-justify">GLOW OVERSEAS EDUCATION has an extremely knowledgeable and experienced team of MBBS counsellors <br />
+                                        Get in touch with one of our friendly counsellors by calling 9513332386 or by simply texting 9513332386 through WhatsApp, we will be more than happy to solve your doubts and help you in the field of medicine.</p>
+                                    <p class="pt-3 text-justify"><strong> PERSONAL COUNSELLING </strong></p>
+                                    <p class="text-justify">GLOW OVERSEAS EDUCATION HAPPILY WELCOME YOU TO VISIT OUR OFFICE <br />
+                                        #1, 3 rd. Floor, 80 ft. Road,<br />
+                                        Opp. George Thangiah Complex,<br />
+                                        ITPL, Whitefield Road,<br />
+                                        Bangalore 560 066<br />
+                                        Personal counselling session or to visit office call 9513332386 or text to WhatsApp on
+                                        9513332386 and book your appointment our friendly counsellor shall arrange personal counselling session
+                                    </p>
+                                    <p class="pt-3 text-justify"><strong> HOME COUNSELLING </strong></p>
+                                    <p class="text-justify"> GLOW OVERSEAS EDUCATION experts visit your place and give you counselling and complete info MBBS in abroad MBBS in India how to choose universities country pros and cons of different choices, PG preparation etc this is followed by a Q & A session with doubt clearance where you can ask everything you want to know to the experts and there are charges for this it’s totally free counselling <br />
+                                        For home counselling you may call 9513332386, or WhatsApp 9513332386
+                                    </p>
+                                    <h5 class="pt-5 pb-3">IMPORTANT FAQs</h5>
+                                    <p class="pt-3 text-justify"><strong> Can I practice in India on my return, after MBBS/MD degree from abroad?</strong>
+                                    <p>YES, as per the current rules of the medical council of India [MCI], you can practice in India. After graduating from abroad, you have to appear for a SCREENING TEST conducted by the national board of education [NBE], New Delhi. On clearing this test, you need to register with MCI and comply with their rules and then you will get registration which will allow you to practice medicine in India.</p>
+
+                                    <p class="pt-3 text-justify"><strong> Can I get a job in government hospitals or applied in medical institution of India?</strong>
+                                    <p class="text-justify">YES, after registration with MCI, the doctor can apply for government & private jobs or do his/her own practice, as the person is now recognized but the Indian authorities as a qualified doctor.</p>
+
+                                    <p class="pt-3 text-justify"><strong> How many times can I appear in the screening test?</strong>
+                                    <p class="text-justify">There is no limit on the number of attempts in the screening test. a sincere student will pass the screening test in the first attempt.it is qualifying test similar to class 12 test.it is not an elimination test such as PMT.</p>
+
+                                    <p class="pt-3 text-justify"><strong> WHAT KIND OF FOOD WILL I GET IN FOREIGN COUNTRIES?</strong>
+                                    <p class="text-justify">Students can cook their own food-kitchen facilities are available.
+                                    <ul>
+                                        <li>Indian canteens and restaurants are available in the city and near the university premises.</li>
+                                        <li>Establishment of a dedication low-cost canteen serving Indian food for international students in the hostel premises in under consideration by the university </li>
+                                        <li>All food items such as rice, dal, potatoes, flour, pizzas, frits, spices, tea, milk, butter, etc are available for sale in the markets and bazaars</li>
+                                    </ul>
+                                    </p>
+                                    <p class="pt-3 text-justify"><strong> ARE THERE ANY INDIAN STUDENTS ALREADY STUDYING IN THESE COLLEGES?</strong>
+                                    <p class="text-justify">500-1200 Indian students are studying in each college listed in this brochure. There are many boys and girls from India..</p>
+                                    <p class="pt-3 text-justify"><strong> CAN I GET BANK LOAN AND TO WHAT EXTENT?</strong>
+                                    <p class="text-justify">As per RBI regulation students pursuing education abroad can obtain a loan up to Rs. 15lacs.visit the local branch to find the terms. Amount sanctioned depend on income proof pf parents’ last three-year income tax return/or salary certificate. You will have to satisfy the criteria that the bank will apply. Visit the local branch of nationalized banks in your area to find out more.</p>
+                                    <p class="pt-3 text-justify"><strong> IS FOREIGN MEDICAL COLLEGES ARE LISTED IN THE WORLD ORGANIZATION [WHO]DIRECTORY?</strong>
+                                    <p class="text-justify">Yes, it is listed in the WHO directory of medical institution. WHO publishes a list of medical colleges given by various countries.</p>
+                                    <p class="pt-3 text-justify"><strong> CAN I DO MASTERS OR POST GRADUATION THERE?</strong>
+                                    <p class="text-justify">Yes. After completion of MBBS degree from India/abroad or any recognized institute, you can pursue PG studies abroad. The quality of education abroad is very high-as the institute’s teachers not only at the bachelors-but also the masters and PHD level.</p>
+                                    <p class="pt-3 text-justify"><strong> IS THE BACHELOR’S DEGREE RECOGNIZED IN INDIA AND ABROAD?</strong>
+                                    <p class="text-justify">Yes, the bachelor’s degree is recognized in India and in more than 180 countries around the world. Graduates can practice in the following countries after completing formalities as needed by each country <br />
+                                        1.India: after clearing a screening test conducted by the national council of education. The test held is twice a year<br />
+                                        2.United Kingdom: after passing PLAB examination <br />
+                                        3.United states of America: after clearing the USMLE<br />
+                                        4.European union [EU]: the degree is recognized by the European union.
+                                    </p>
+                                    <p class="pt-3 text-justify"><strong>	HOW TO APPLY FOR PASSPORT AND WHAT DOCUMENT WOULD I NEED? </strong></p>
+                                    <p class="text-justify">You need to either apply for your passport online and apply. The passport application process is moving online. Visit www.passportindia.gov.in the website contains the name, address, and the phone number of passport offices all over India. You can submit your application online via a form. In some cases, the application is being received online only. We recommended that you apply for your passport immediately. Fill out the form on the net and you get an appointed date. Normally takes six to eight weeks to receive a new password. </p>
+                                    <p class="pt-3 text-justify"><strong> 	What are the facilities in hostel?</strong>
+                                    <p class="text-justify">
+                                    <ul>
+                                        <li>Washing machine</li>
+                                        <li>Hot water  </li>
+                                        <li>Free electric stove for cooking </li>
+                                        <li>Changing the bed sheet every 2-3 days for free </li>
+                                        <li>Free electricity </li>
+                                        <li>Security guard</li>
+                                        <li>Hostel warden</li>
+                                        <li>High-speed internet with 10 Mbps speed. Cost around Rs.600 per month</li>
+                                    </ul>
+                                    </p>
+                                    <p class="pt-3 text-justify"><strong>	CAN MY PARENTS VISIT ME IN UNIVERSITY ABROAD? CAN I TRAVEL IN MY HOLIDAYS OR STAY BACK IN ABROAD?</strong></p>
+                                    <p class="text-justify"><ul>
+                                        <li>Parents/friends/relatives or students can visit; invitations can be issued from that country to facilitate visa processing in new Delhi </li>
+                                        <li>There is two days in a year. 15 days in January and 2months in summer [July and august] during holidays - students have the option so staying back there or travelling in Europe or coming back to India to spend time their family.</li>
+                                    </ul></p>
+                                    <p class="pt-3 text-justify"><strong>	IS THERE ANY LOCAL BODIES WHO CAN HELP ME PROVIDING THE OVERALL INFO?</strong>
+                                    <p class="text-justify">We have representatives in various cities. Please send your query to us and we shall send it to our local representation office and they would to getting in touch with you.</p>
+                                    <p class="pt-3 text-justify"><strong>	WHAT ARE THE BENEFITS GIVEN TO STUDENTS JOINING THROUGHT OUR COMPANY?</strong>
+                                    <p class="text-justify">We are authorized by the universities we have over a decade of experience in dealing with students. We have [plenty of information and tips of value to students and parents for the course. We provide networking with doctors in USA & UK for those wanting to go overseas for jobs </p>
+
+                                    <p class="pt-3 text-justify"><strong>	IS VEGETRAIAN FOODS AVAILABLE?</strong>
+                                    <p class="text-justify">Yes. Vegetarian food is available. If needed: pure vegetarians can cook their own food so that they happy about what they eat.  </p>
+
+                                    <p class="pt-3 text-justify"><strong>	Can I do my internship from my country?</strong>
+                                    <p class="text-justify">Yes, but it also depends on the university applied for and also the medical board of the country where the students want to do the internships. </p>
+                                    <p class="pt-3 text-justify"><strong>	HOW STUDENTS IS GOING TO PAY THE TUTION FEES AND OTHERS FEES?</strong>
+                                    <p class="text-justify">They can be paid directly to the university applied for and also the medical board of the country where the students want to do the internships. </p>
+
+                                    <p class="pt-3 text-justify"><strong>	IS THERE ANY SPECIAL PROVISION FOR INTERNATIONAL STUDENTS TO SLOVE THEIR ANY PERSONAL PROBLEMS OR QUERIES?</strong>
+                                    <p class="text-justify">Every university has an international student’s department where students could address their problems directly.  </p>
+
                                 </div>
                             </div>
                             <div class="row pt-5">
@@ -367,18 +579,18 @@
                                                 <div class="form-group">
                                                     <!-- <label for="selectbox">Enter Select Your Country</label> -->
                                                     <select class="form-control" id="selectbox" name="" onchange="mylang(this.value)">
-                                                      <option value="">Select Your Country</option>
-                                                      <option>Ukraine</option>
-                                                      <option>USA</option>
-                                                      <option>Kyrgyzstan</option>
-                                                      <option>Georgia</option>
-                                                      <option>Poland</option>
-                                                      <option>Philippines</option>
-                                                      <option>Russia</option>
-                                                      <option>China</option>
-                                                      <option>Kazakhstan</option>
+                                                        <option value="">Select Your Country</option>
+                                                        <option>Ukraine</option>
+                                                        <option>USA</option>
+                                                        <option>Kyrgyzstan</option>
+                                                        <option>Georgia</option>
+                                                        <option>Poland</option>
+                                                        <option>Philippines</option>
+                                                        <option>Russia</option>
+                                                        <option>China</option>
+                                                        <option>Kazakhstan</option>
                                                     </select>
-                                                  </div>
+                                                </div>
                                             </form>
                                         </div>
                                     </div>
@@ -390,10 +602,10 @@
                                                 <div class="form-group">
                                                     <!-- <label for="selectbox1">University in?</label> -->
                                                     <select class="form-control" id="selectbox1" name="" onchange="getSelectedValue();">
-                                                      <option value="">University Lists</option>
-                                                      
+                                                        <option value="">University Lists</option>
+
                                                     </select>
-                                                  </div>
+                                                </div>
                                             </form>
                                         </div>
                                     </div>
@@ -504,8 +716,8 @@
             </div>
         </div>
     </footer>
-    
-    
+
+
 
 
     <!-- Optional JavaScript -->
@@ -515,20 +727,21 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="js/main.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js" integrity="sha512-RXf+QSDCUQs5uwRKaDoXt55jygZZm2V++WUZduaU/Ui/9EGp3f/2KZVahFZBKGH0s774sd3HmrhUy+SgOFQLVQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    
+
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js" integrity="sha512-gY25nC63ddE0LcLPhxUJGFxa2GoIyA5FLym4UJqHDEMHjp8RET6Zn/SHo1sltt3WuVtqfyxECP38/daUc/WVEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdn.jsdelivr.net/gh/kmlpandey77/bootnavbar/js/bootnavbar.js"></script>
 
     <script>
-        
+
     </script>
-        
+
     <script>
-        
-   </script>
-     <!-- <script id="__bs_script__">//<![CDATA[
+
+    </script>
+    <!-- <script id="__bs_script__">//<![CDATA[
          document.write("<script async src='http://HOST:4000/browser-sync/browser-sync-client.js?v=2.26.13'><\/script>".replace("HOST", location.hostname));       
     //]]></script> -->
-  </body>
-</html>  
+</body>
+
+</html>
