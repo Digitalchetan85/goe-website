@@ -757,12 +757,12 @@
                                 Mbbs in Abroad
                             </h5>
                             <div class="">
-                                <li><a href="services.html">MBBS in Ukraine</a></li>
-                                <li><a href="services.html">MBBS in USA</a></li>
-                                <li><a href="services.html">MBBS in Kyrgyzstan</a></li>
-                                <li><a href="services.html">MBBS in Georgia</a></li>
-                                <li><a href="services.html">MBBS in Poland</a></li>
-                                <li><a href="services.html">MBBS in Russia</a></li>
+                            <li><a href="mbbs-in-ukraine.php">MBBS in Ukraine</a></li>
+                                <li><a href="mbbs-in-usa.php">MBBS in USA</a></li>
+                                <li><a href="mbbs-in-kyrgyzstan.php">MBBS in Kyrgyzstan</a></li>
+                                <li><a href="mbbs-in-georgia.php">MBBS in Georgia</a></li>
+                                <li><a href="mbbs-in-poland.php">MBBS in Poland</a></li>
+                                <li><a href="mbbs-in-russia.php">MBBS in Russia</a></li>
                             </div>
                         </div>
                     </div>
