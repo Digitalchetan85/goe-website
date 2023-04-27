@@ -369,7 +369,7 @@
                             <img src="./images/home-page/mbbs-in-usa.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="text-center pt-3 pb-3">
-                            <a href="" class="btn custom-btn-1">MBBS in USA</a>
+                            <a href="mbbs-in-usa.php" class="btn custom-btn-1">MBBS in USA</a>
                         </div>
                     </div>
                 </div>
@@ -379,7 +379,7 @@
                             <img src="./images/home-page/mbbs-in-ukraine.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="text-center pt-3 pb-3">
-                            <a href="" class="btn custom-btn-1">MBBS in Uraine</a>
+                            <a href="mbbs-in-ukraine.php" class="btn custom-btn-1">MBBS in Ukraine</a>
                         </div>
                     </div>
                 </div>
@@ -389,7 +389,7 @@
                             <img src="./images/home-page/mbbs-in-georgia.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="text-center pt-3 pb-3">
-                            <a href="" class="btn custom-btn-1">MBBS in Georgia</a>
+                            <a href="mbbs-in-georgia.php" class="btn custom-btn-1">MBBS in Georgia</a>
                         </div>
                     </div>
                 </div>
@@ -399,7 +399,7 @@
                             <img src="./images/home-page/mbbs-in-kyrgyzstan.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="text-center pt-3 pb-3">
-                            <a href="" class="btn custom-btn-1">MBBS in Kyrgyzstan</a>
+                            <a href="mbbs-in-kyrgyzstan.php" class="btn custom-btn-1">MBBS in Kyrgyzstan</a>
                         </div>
                     </div>
                 </div>
@@ -411,7 +411,7 @@
                             <img src="./images/home-page/mbbs-in-philippines.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="text-center pt-3 pb-3">
-                            <a href="" class="btn custom-btn-1">MBBS in Philippines</a>
+                            <a href="mbbs-in-philippines.php" class="btn custom-btn-1">MBBS in Philippines</a>
                         </div>
                     </div>
                 </div>
@@ -421,7 +421,7 @@
                             <img src="./images/home-page/mbbs-in-kazakhstan.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="text-center pt-3 pb-3">
-                            <a href="" class="btn custom-btn-1">MBBS in Kazakhstan</a>
+                            <a href="mbbs-in-kazakhstan.php" class="btn custom-btn-1">MBBS in Kazakhstan</a>
                         </div>
                     </div>
                 </div>
@@ -431,7 +431,7 @@
                             <img src="./images/home-page/mbbs-in-russia.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="text-center pt-3 pb-3">
-                            <a href="" class="btn custom-btn-1">MBBS in Russia</a>
+                            <a href="mbbs-in-russia.php" class="btn custom-btn-1">MBBS in Russia</a>
                         </div>
                     </div>
                 </div>
@@ -441,7 +441,7 @@
                             <img src="./images/home-page/mbbs-in-poland.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="text-center pt-3 pb-3">
-                            <a href="" class="btn custom-btn-1">MBBS in Poland</a>
+                            <a href="mbbs-in-poland.php" class="btn custom-btn-1">MBBS in Poland</a>
                         </div>
                     </div>
                 </div>
@@ -679,12 +679,12 @@
                                 Mbbs in Abroad
                             </h5>
                             <div class="">
-                                <li><a href="services.html">MBBS in Ukraine</a></li>
-                                <li><a href="services.html">MBBS in USA</a></li>
-                                <li><a href="services.html">MBBS in Kyrgyzstan</a></li>
-                                <li><a href="services.html">MBBS in Georgia</a></li>
-                                <li><a href="services.html">MBBS in Poland</a></li>
-                                <li><a href="services.html">MBBS in Russia</a></li>
+                                <li><a href="mbbs-in-ukraine.php">MBBS in Ukraine</a></li>
+                                <li><a href="mbbs-in-usa.php">MBBS in USA</a></li>
+                                <li><a href="mbbs-in-kyrgyzstan.php">MBBS in Kyrgyzstan</a></li>
+                                <li><a href="mbbs-in-georgia.php">MBBS in Georgia</a></li>
+                                <li><a href="mbbs-in-poland.php">MBBS in Poland</a></li>
+                                <li><a href="mbbs-in-russia.php">MBBS in Russia</a></li>
                             </div>
                         </div>
                     </div>

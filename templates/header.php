@@ -46,7 +46,7 @@
                           <a class="nav-link" href="/">Home</a>
                       </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about-us.html">About Us</a>
+                            <a class="nav-link" href="about-us.php">About Us</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -54,7 +54,7 @@
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <li class="nav-item dropdown">
-                                    <a class="dropdown-item dropdown-toggle" data-toggle="dropdown" href="mbbs-in-ukraine.html">MBBS in Ukraine</a>
+                                    <a class="dropdown-item dropdown-toggle" data-toggle="dropdown" href="mbbs-in-ukraine.php">MBBS in Ukraine</a>
                                       <ul class="dropdown-menu">
                                           <li><a class="dropdown-item" href="/goe-new/src/mbbs-in-ukraine/kharkiv-international-medical-university.html">Kharkiv International Medical University</a></li>
                                           <li><a class="dropdown-item" href="/goe-new/src/mbbs-in-ukraine/taras-shevchenko-national-medical-university.html">Taras Shevchenko National Medical University</a></li>
